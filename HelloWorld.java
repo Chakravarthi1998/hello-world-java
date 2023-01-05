@@ -40,5 +40,10 @@ public class HelloWorld {
     System.out.println("My name is chakravarthi");
     System.out.println("i have working in infosys");
     System.out.println("Hello, World");
+    System.out.prientln("Hello, World");
+    System.out.prientln("Hello, Chakri");
+    System.out.prientln("Hello, World");
+    System.out.prientln("i have work in work from home");
+    
   }
 }
